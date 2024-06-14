@@ -1,7 +1,7 @@
 using NUnit.Framework;
 
 [TestFixture]
-public class ProgramTests
+public class SparklersTest
 {
     private Program _program;
 
